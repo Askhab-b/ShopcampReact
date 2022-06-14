@@ -1,0 +1,21 @@
+img {
+    width: 150px;
+    height: 150px;
+
+}
+.button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 8px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.product{
+    width: 30%;
+    padding: 1%;
+}
